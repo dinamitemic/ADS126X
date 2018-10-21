@@ -1,8 +1,9 @@
 /*
  * ADS126x.c
  *
- *  Created on: Apr 25, 2014
- *      Author: a0406726
+ *  Created on: 		Mar 26, 2014
+ *  Last Updated on: 		Sep 13, 2018
+ *  Author: 			Michele Gazzarri
  */
 
 #include "ADS126x.h"	// All other required source files are declared here
